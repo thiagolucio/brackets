@@ -1,0 +1,11 @@
+Plugins instalados:
+
+beautify.io -> https://github.com/dingdong-io/brackets.beautify.io
+Bootstrap4 Snippets -> https://github.com/djsiddz/bootstrap4-snippets
+brackets-compare -> https://github.com/bomsy/brackets-compare
+
+Custom Work -> https://github.com/DH3ALEJANDRO/custom-work-for-brackets
+Minimap -> https://github.com/zorgzerg/brackets-minimap
+
+Monokai Darker Soda -> https://github.com/kleinrein/Monokai-Darker-Soda
+New One Dark -> https://github.com/moritzw1/one-dark-theme-for-brackets
