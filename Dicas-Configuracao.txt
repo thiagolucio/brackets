@@ -1,0 +1,3 @@
+Para acertar os estilos do Brackets (incluindo alturas das linhas e distancias entre elas)...
+
+Você deve procurar por "line-height" na Classe ".CodeMirror" (geralmente na linha 6219)

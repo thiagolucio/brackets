@@ -1,0 +1,22 @@
+TECLAS DE ATALHO:
+
+
+
+CTRL+D = duplica linha ativa do cursor. 
+CTRL+X = deleta linha ativa do cursor.
+CTRL+/ = Comenta linha cursor ativo.
+CTRL+SHIFT+/ = Comenta bloco de codigo.
+CTRL+ENTER = Cursor vai pro inicio de uma NOVA linha criada e identada DEPOIS da linha atual. 
+CTRL+SHIFT+ENTER = Cursor vai pro inicio de uma NOVA linha criada e identada ANTES da linha atual. 
+
+
+
+
+
+
+
+
+
+Links de atalhos informados:
+
+http://css-snippets.com/brackets-course-10/
