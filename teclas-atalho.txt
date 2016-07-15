@@ -15,8 +15,15 @@ CTRL+SHIFT+ENTER = Cursor vai pro inicio de uma NOVA linha criada e identada ANT
 
 
 
-
-
 Links de atalhos informados:
 
 http://css-snippets.com/brackets-course-10/
+
+
+
+:::MINIMAP::: - https://github.com/zorgzerg/brackets-minimap
+
+Para diminuir zoom do minimap, apertar CTRL+SHIFT rolar mousewhell cima ou baixo.
+Shift + MouseWhell cima ou baixo para aumentar ou diminuir transparência.
+
+

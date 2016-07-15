@@ -1,8 +1,8 @@
 {
-    "fonts.fontSize": "17px",
+    "fonts.fontSize": "16px",
     "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
     "themes.theme": "andreasrein.monokai-darker-soda",
-    "brackets-minimap.width": 153,
+    "brackets-minimap.width": 100,
     "brackets-minimap.whatsnew": "3.2.6",
     "custom.work.reduce.opacity": true,
     "custom.work.showWorkingFilesSidebar": true,
@@ -16,10 +16,22 @@
     "custom.work.scrollwheel": true,
     "styleActiveLine": false,
     "brackets-minimap.autohide": true,
-    "brackets-minimap.width": 100,
-	"custom.work.showWorkingFilesSidebar": true,
-	"dragDropText": true,
-	"showCursorWhenSelecting": true,
-	"spaceUnits": 4,
-	"tabSize": 4    
+    "brackets-indent-guides.enabled": true,
+    "brackets-indent-guides.guideColor": "#666666",
+    "brackets-indent-guides.guideStyle": "dotted",
+    "brackets-indent-guides.hideFirst": false,
+    "dragDropText": true,
+    "showCursorWhenSelecting": true,
+    "spaceUnits": 4,
+    "tabSize": 4,
+    "linting.collapsed": false,
+    "beautify.io.on_save": false,
+    "brackets-minimap.transparent": 5,
+    "brackets-minimap.zoomratio": 10,
+    "dnbard.projects.favorites": [],
+    "dnbard.projects.filter": [
+        "favorite"
+    ],
+    "dnbard.projects.customs": [],
+    "brackets-css-color-preview.enabled": true
 }
